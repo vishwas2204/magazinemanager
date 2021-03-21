@@ -1,0 +1,2 @@
+# magazinemanager
+project application
